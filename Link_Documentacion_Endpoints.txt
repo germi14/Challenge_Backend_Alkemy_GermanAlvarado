@@ -1,0 +1,3 @@
+En el siguiente link se encuentra la documentacion de los endpoints, se utilizo la herramienta Postman.
+
+https://documenter.getpostman.com/view/19175920/UVkqra7k
